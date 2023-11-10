@@ -1,4 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
+
+<!--Karena kita akan mengubah layout dasar yang ada, ubahlah tampilan Layout Editor menjadi Split atau Code. Kemudian, ganti kode di dalamnya untuk mengubah layout dasar dari ConstraintLayout menjadi LinearLayout seperti berikut.-->
+
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
